@@ -4,8 +4,8 @@
 # "no source, needs adoption" is an honest answer. An empty line is not.
 
 # --- document metadata ---
-4.16               | this document's own version
-14                 | date of this version, 14 October 2026
+4.17               | this document's own version
+15                 | date of this version, 15 October 2026
 US follows         | Laura's ruling, 13 Oct 2026: France launches first, the US follows
 2026               | date
 2025               | date of the branding studio's brand platform
